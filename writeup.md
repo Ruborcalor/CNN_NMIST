@@ -29,11 +29,13 @@ My takeaways include that I should spend more time researching the goal before b
 
 ## Individual Contributions
 
-I wrote the code for automating the downloading, unzipping and loading into memory of the data files, as well as for saving the submission to a csv (although this was adapted by code shared by Rick in the Slack).
+Cole Killian:
 
-I built the keras model architectures and performed hyperparameter tuning manually. That being said, I was heavily influenced by the following very helpful articles:
-
-1. [https://mlexplained.com](https://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/)
-2. [https://towardsdatascience.com](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7)
-3. [https://www.youtube.com/watch?v=lOZGYzTn9Z8](https://www.youtube.com/watch?v=lOZGYzTn9Z8)
-4. [https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist](https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist)
+> I wrote the code for automating the downloading, unzipping and loading into memory of the data files, as well as for saving the submission to a csv (although this was adapted by code shared by Rick in the Slack).
+ 
+> I built the keras model architectures and performed hyperparameter tuning manually. That being said, I was heavily influenced by the following very helpful articles and the starter code from Slack:
+ 
+> 1. [https://mlexplained.com](https://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/)
+> 2. [https://towardsdatascience.com](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7)
+> 3. [https://www.youtube.com/watch?v=lOZGYzTn9Z8](https://www.youtube.com/watch?v=lOZGYzTn9Z8)
+> 4. [https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist](https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist)
