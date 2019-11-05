@@ -1,6 +1,6 @@
 ---
 title: NMIST Kaggle
-author: Cole Killian, Kusha Sareen, David Holcer
+author: Cole Killian
 date: November 02 2019
 geometry: margin=3cm
 ---
@@ -39,3 +39,7 @@ Cole Killian:
 > 2. [https://towardsdatascience.com](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7)
 > 3. [https://www.youtube.com/watch?v=lOZGYzTn9Z8](https://www.youtube.com/watch?v=lOZGYzTn9Z8)
 > 4. [https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist](https://www.kaggle.com/pavansanagapati/a-tutorial-cnn-model-fashion-mnist)
+
+## Link to Github Repository:
+
+\url{https://github.com/Ruborcalor/CNN_NMIST}
